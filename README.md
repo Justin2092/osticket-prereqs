@@ -22,10 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create Microsoft Azure subscription
-- Create Research Group in Microsoft Azure
-- Setup A Virtual Machine in Azure 
-- Item 4
+- Install/Enable IIS in Windows with CGI & Common HTTP Features
+- Download and install PHP Manager for IIS
+- Download and Install Rewrite Module
+- 
+- 
 - Item 5
 
 <h2>Installation Steps</h2>
