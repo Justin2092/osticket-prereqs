@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Download and Install Rewrite Module
 - Download PHP v7.2 or greater
 - Download and install Microsoft Visual Redistributable C++
-  Download and MySQL
+- Download and MySQL Server
 
 <h2>Installation Steps</h2>
 
