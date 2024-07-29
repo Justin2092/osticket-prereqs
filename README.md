@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https![image](https://github.com/user-attachments/assets/0428dd03-a374-4fd9-a689-a90a93a66022)
+<img src="https://i.imgur.com/JTQvfRa.png"(https://github.com/user-attachments/assets/0428dd03-a374-4fd9-a689-a90a93a66022)
 (https://github.com/user-attachments/assets/60881f71-9b47-4cea-8c2e-1d8c730b8a03)
 (https://github.com/user-attachments/assets/ee907677-9ed2-4b91-9882-4286679f75c6)
 " height="80%" width="80%" alt="Disk Sanitization Steps"/>
